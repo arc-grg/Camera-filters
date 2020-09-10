@@ -7,3 +7,4 @@
 ![](Improper_mask.gif)
 
  # Proper mask filter
+![](Proper_mask.gif)
