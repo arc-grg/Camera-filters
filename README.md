@@ -1,7 +1,9 @@
 # Camera-filters
 
-# Landmark
+# Landmarks detection
 ![](Landmarks.gif)
 
-# Improper mask
+# Improper mask filter
 ![](Improper_mask.gif)
+
+ # Proper mask filter
