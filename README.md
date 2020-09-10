@@ -3,5 +3,5 @@
 # Landmark
 ![](Landmarks.gif)
 
-# improper mask
+# Improper mask
 ![](Improper_mask.gif)
